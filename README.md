@@ -12,7 +12,7 @@
 
 ### Thành viên nhóm
 
-| STT | Họ tên | MSSV | Email | Github |
+| STT | Họ tên | MSSV | Email |
 | :---: | --- | --- | --- | --- |
 | 1 | Đào Tuấn Anh | 19520377 | 19520377@gm.uit.edu.vn |
 | 2 | Cao Thanh Bình | 19520408 | 19520408@gm.uit.edu.vn |
